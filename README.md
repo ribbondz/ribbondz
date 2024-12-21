@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on solving some optimization problems in transportation.
 - 👯 I will occasionally publish solution algorithms that I have written for transportation optimization problems.
-- 📫 How to reach me: dz@swjtu.edu.cn
